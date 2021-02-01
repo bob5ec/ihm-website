@@ -1,0 +1,137 @@
+<!--<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body>
+        {{- partial "header.html" . -}}
+        <div id="content">
+        {{- block "main" . }}{{- end }}
+        </div>
+        {{- partial "footer.html" . -}}
+    </body>
+</html>
+-->
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de-de" lang="de-de"><head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>ihm  Bauingenieure u. Sachverständige GbR - {{.Title}}</title>
+    <link rel="stylesheet" href="/css/ihm.css" type="text/css">
+  </head>
+       <body>
+      <table style="width:100%; table-layout:fixed;" border="0" cellpadding="5" cellspacing="11">
+    <tbody>
+                         <tr class="topNavi">
+    <td style="width:50%">
+    </td><td class="logo" style="text-align:center;">
+          <div style="font-size: 21px;">
+            <span style="font-size: 26px; color:rgb(33,94,143)" class="fhmLogo"><a href="/">ihm</a></span>
+                      Bauingenieure u. Sachverständige <span style="font-size: 19px;">GbR</span></div>
+      <div style="font-size: 12px; white-space: nowrap;">Ingenieurbüro für Bauwesen Chr.Hermerschmidt und D.Mielke</div>
+      <div style="font-size: 12px; white-space: nowrap;">Beratende Ingenieure für Bauwesen IngKN, IngKSA</div>
+        </td>
+  
+        <td class="menuOff" onmouseover="className='menuOn';" onmouseout="className='menuOff';">
+          <span class="naviH1">Tragwerksplanung</span>
+          Referenzen
+          <ul style="padding-left:5px">
+            <li><a href="/referenzen/tragwerksplanung/wohnungsbau">Wohnungsbau</a></li>
+            <li><a href="/tragwerksplanung/buro_und_geschaftshausbau.html">Büro- und Geschäftshausbau</a></li>
+            <li><a href="/tragwerksplanung/Industriebau.html">Industriebau</a></li>
+            <li><a href="/tragwerksplanung/ingenieurbau.html">Ingenieurbau</a></li>
+          </ul>
+        </td>
+  
+        <td class="menuOff" onmouseover="className='menuOn';" onmouseout="className='menuOff';">
+          <span class="naviH1">Bauphysik</span>
+          <ul>
+            <li><a href="/bauphysik/referenzen.html">Referenzen</a></li>
+          </ul>
+        </td>
+  
+        <td class="menuOff" onmouseover="className='menuOn';" onmouseout="className='menuOff';">
+          <span class="naviH1">Gutachten</span>
+          <ul>
+            <li><a href="/gutachten/referenzen.html">Referenzen</a></li>
+          </ul>
+        </td>
+        
+        <td class="menuOff" onmouseover="className='menuOn';" onmouseout="className='menuOff';">
+          <span class="naviH1">Sanierung</span>
+          <ul>
+            <li><a href="/sanierung/referenzen.html">Referenzen</a></li>
+          </ul>
+        </td>
+        
+        <td class="menuOff" onmouseover="className='menuOn';" onmouseout="className='menuOff';">
+          <span class="naviH1">SiGeKo</span>
+          <ul>
+            <li><a href="/sigeko/referenzen.html">Referenzen</a></li>
+          </ul>
+        </td>
+    <td style="width:50%">
+  </td></tr>
+           <tr>
+          <td style="width:50%">
+          </td><td colspan="7" style="padding:0;">
+            <table style="width:100%; table-layout:fixed;" border="0">
+              <tbody><tr>
+                             <td class="leftColum" style="padding: 0px;">
+    <table style="width:100%" class="leftNavi" border="0" cellpadding="5" cellspacing="11">
+      <tbody class="menuOff">
+        <tr>
+          <td onmouseover="className='menuOn';" onmouseout="className='menuOff';">
+            <span class="naviH1">Wir über uns</span>
+            <ul>
+              <li><a href="/wir/unternehmen">die Gesellschaft</a></li>
+              <li><a href="/wir/hermerschmidt.html">Christel Hermerschmidt</a></li>
+              <li><a href="/wir/mielke.html">Dirk Mielke</a></li>
+              <li>&nbsp;</li>
+              <li><a href="/wir/impressum.html">Impressum</a></li>
+              <li><a href="/wir/datenschutz.html">Datenschutz</a></li> 
+              </ul>
+          </td>
+          
+          <td>
+        </td></tr>
+        <tr>
+  
+          <td onmouseover="className='menuOn';" onmouseout="className='menuOff';">
+            <span class="naviH1">Kontakt</span>              
+            <ul>
+              <li><a href="/kontakt/buro.html">Büro</a></li>
+              <li><a href="/kontakt/anfahrt.html">Anfahrt</a></li>
+              <li><a href="/kontakt/hermerschmidt.html">Christel Hermerschmidt</a></li>
+              <li><a href="/kontakt/mielke.html">Dirk Mielke</a></li>
+            </ul>
+          </td>
+          
+          <td>
+        </td></tr>
+        <tr>
+          
+          <td onmouseover="className='menuOn';" onmouseout="className='menuOff';">
+            <span class="naviH1">Kurioses</span>              
+            <ul>
+              <li><a href="/kurioses/am_Bau.html">Kurioses am Bau</a></li>
+            </ul>
+          </td>
+          <td class="marker" style="text-align: right;">
+            {{.Title}}
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </td>
+    <td id="content" style="padding-left: 10px;">
+        {{- block "main" . }}{{- end }}
+    </td>
+  </tr>
+  </tbody></table>
+  </td>
+  <td style="width:50%">
+        </td></tr>
+    </tbody>
+  </table>
+  
+  
+     </body></html>
