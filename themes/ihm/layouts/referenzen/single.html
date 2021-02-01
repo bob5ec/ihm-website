@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{ $img := print "/" .File.Dir  .File.BaseFileName ".jpg"}}
+{{ $static_img := print "/static" $img}}
+{{ if (fileExists $static_img ) -}}
+    <img src="{{ $img }}"/>
+{{- end }}
+
+{{if isset .Params "table"}}
+<table class="tableProjektDetail">
+    {{ range $row := .Params.table }}
+    <tr>
+        {{ range $elem_key, $elem_val := $row }}
+            <th>{{ $elem_key }}:</th><td>{{ $elem_val }}</td>
+        {{ end }}
+    </tr>
+    {{ end }}
+</table>
+{{end}}
+{{ .Content }}
+{{ end }}
