@@ -1,8 +1,10 @@
 {{ define "main" }}
-{{ $img := print "/" .File.Dir  .File.BaseFileName ".jpg"}}
-{{ $static_img := print "/static" $img}}
+{{ $img         := print "/"        (path.Dir .Dir) "/" .File.BaseFileName ".jpg"}}
+{{ $static_img  := print "/static/" .Dir                .File.BaseFileName ".jpg"}}
 {{ if (fileExists $static_img ) -}}
+<p style="text-align:center">
     <img src="{{ $img }}"/>
+ </p>
 {{- end }}
 
 {{if isset .Params "table"}}

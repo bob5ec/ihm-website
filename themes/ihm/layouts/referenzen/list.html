@@ -1,9 +1,18 @@
 {{ define "main" }}
-<h1>{{.Content}}</h1>
 {{ range .Pages.ByPublishDate.Reverse }}
-<p>
-    <h3><a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-    <p>{{ .Summary }}</p>
-</p>
+    <div class="hProjekt"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+        {{if isset .Params "table"}}
+        <table class="projekt">
+            <tbody>
+                {{ range $row := first 2 .Params.table }}
+                <tr>
+                    {{ range $elem_key, $elem_val := $row }}
+                        <td>{{ $elem_key }}:</td><td>{{ $elem_val }}</td>
+                    {{ end }}
+                </tr>
+                {{ end }}
+            </tbody>
+        </table>
+        {{ end }}
 {{ end }}
 {{ end }}

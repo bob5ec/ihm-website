@@ -5,15 +5,15 @@ draft: false
 table:
     - Bauherr: "Frau Marion Hogrefe, Hannover"
     - Planer: "Dipl.-Ing. ARCHITEKT Hajo Thiel, Hannover"
-    - Baufirma: "Adolf Schwonberg GmbH & Co, Hannover  "
+    - Baufirma: "Adolf Schwonberg GmbH & Co, Hannover"
     - Baukosten: "ca. € 210.000,00"
     - umbauter Raum: "Aufzugsturm über 5 Geschosse (incl. Dachgeschoss)"
 ---
 
-## Konstruktion
+### Konstruktion
 5-geschossige Stahlkonstruktion auf Stahlbetonwänden mit Plattengründung für die Aufzugsunterfahrt.  
 Bei dem Aufzugsturm handelt es sich um eine fachwerkähnliche Stahlkonstruktion, die auf eine örtlich hergestellte Unterfahrt aus Stahlbeton aufgesetzt wurde.
 
-## Besonderheit
+### Besonderheit
 Der eigentliche Aufzugsturm ist um ca. 45° gegenüber der Gebäudeaußenwand gedreht und die verbindende Decke zwischen Gebäude und Aufzugsschacht schließt an die Zwischenpodeste des vorhandenen Treppenhauses an.  
 Auf Grund der gewünschten Geometrie waren die Verdrehungen aus dem Lastfall Wind, und daraus resultierenden horizontalen Auflagerkräfte am bestehenden Gebäude, unbedingt auf ein Minimum zu begrenzen, um die Gebrauchstauglichkeit zu gewährleisten.
