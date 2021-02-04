@@ -34,6 +34,8 @@ td.logo {
 
 .fhmLogo {
     color: rgb(33,94,143);
+    font-weight: bold;
+    font-style: italic;
 }
 
 .fhmLogo a:hover {
