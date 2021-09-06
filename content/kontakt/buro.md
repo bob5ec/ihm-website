@@ -7,7 +7,8 @@ draft: false
 Dipl.-Ing. Christel Hermerschmidt  
 Dipl.-Ing. Dirk Mielke  
 Am Bornberg 5  
-D-30938 Burgwedel/Wettmar  
+D-30938 Burgwedel/Wettmar
+
 fon: 05139/7126  
 fax: 05139/7127  
 e-mail: mail@ihm-ingenieure.de
