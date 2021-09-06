@@ -1,10 +1,8 @@
 ---
-title: "Christel Hermerschmidt"
+title: "Christel Hermerschmidt - beruflicher Werdegang"
 date: 2021-01-31T21:40:47+01:00
 draft: false
 ---
-Christel Hermerschmidt - beruflicher Werdegang
-
 Abitur 1968 in Großburgwedel
 
 Studium des Bauingenieurwesens an der TU Hannover; 1968 bis 1974
