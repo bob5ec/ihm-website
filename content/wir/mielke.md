@@ -1,10 +1,8 @@
 ---
-title: "Dirk Mielke"
+title: "Dirk Mielke - beruflicher Werdegang"
 date: 2021-01-31T21:40:47+01:00
 draft: false
 ---
-Dirk Mielke - beruflicher Werdegang
-
 Gesellenprüfung als Maurer 1981 in Vechta
 
 Abitur 1984 in Lohne i.O.
