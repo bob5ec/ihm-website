@@ -5,5 +5,5 @@ draft: false
 ---
 Dipl.-Ing. Dirk Mielke  
 fon: 05139/7126  
-e-mail: [mielke@ihm-ingenieure.de](mielke@ihm-ingenieure.de)  
+e-mail: [mielke@ihm-ingenieure.de](mailto:mielke@ihm-ingenieure.de)  
 mobil: 0172/5166538
