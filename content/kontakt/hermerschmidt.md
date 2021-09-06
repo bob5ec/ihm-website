@@ -5,5 +5,5 @@ draft: false
 ---
 Dipl.-Ing. Christel Hermerschmidt  
 fon: 05139/7126  
-e-mail: [hermerschmidt@ihm-ingenieure.de](hermerschmidt@ihm-ingenieure.de)  
+e-mail: [hermerschmidt@ihm-ingenieure.de](mailto:hermerschmidt@ihm-ingenieure.de)  
 mobil: 0172/4796505
