@@ -1,6 +1,6 @@
 ---
 title: "Neubau BAB Rastsätte Harz Ost, Typ TR 120"
-date: 2012-01-31T21:23:23+01:00
+date: 2012-01-28T21:23:23+01:00
 draft: false
 table:
     - Bauherr: "Autobahn Tank & Rast GmbH, Bonn"
