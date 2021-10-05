@@ -1,6 +1,6 @@
 ---
 title: "Neubau Bürogebäude mit Hochregallager, Gerberstraße, 30916 Isernhagen/Kirchhorst"
-date: 2012-01-25T21:23:23+01:00
+date: 2021-01-25T21:23:23+01:00
 draft: false
 table:
     - Bauherr: "Grundstücksges bR Prahl & Dolgner, Wedemark"

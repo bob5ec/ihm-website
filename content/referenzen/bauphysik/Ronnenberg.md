@@ -1,6 +1,6 @@
 ---
 title: "Neubau eines Fachmarktzentrum, Ronnenberg/Empelde"
-date: 2012-01-29T21:23:23+01:00
+date: 2021-01-29T21:23:23+01:00
 draft: false
 table:
     - Bauherr: "Herr Klaus-Dieter Federking, Porta Westfalica"
