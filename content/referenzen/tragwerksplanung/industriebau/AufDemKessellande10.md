@@ -1,6 +1,6 @@
 ---
 title: "Neubau Speditionshof - Bürogebäude mit Werkstatt-/Waschhalle, Auf dem Kessellande 10, 30900 Wedemark/Bissendorf"
-date: 2012-01-24T21:23:23+01:00
+date: 2012-01-23T21:23:23+01:00
 draft: false
 table:
     - Bauherr: "Ulrike und Alexander Klein, Uelzen"

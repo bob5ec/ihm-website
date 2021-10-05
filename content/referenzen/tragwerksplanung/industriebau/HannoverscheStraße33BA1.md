@@ -1,6 +1,6 @@
 ---
 title: "Neubau der Druckfarbenfabrik J+S, Hannoversche Straße 33, Sehnde/Höver (BA1)"
-date: 2012-01-25T21:23:23+01:00
+date: 2012-01-24T21:23:23+01:00
 draft: false
 table:
     - Bauherr: "F. Jänecke GmbH & Co. KG, Hannover"
