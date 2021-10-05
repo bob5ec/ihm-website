@@ -1,6 +1,6 @@
 ---
 title: "Neubau des Brückenhauses, Am Leinewehr, Hannover-Döhren"
-date: 2021-01-31T21:23:23+01:00
+date: 2021-01-28T21:23:23+01:00
 draft: false
 table:
     - Bauherr: "Frau Dr. Gaida, Hannover"

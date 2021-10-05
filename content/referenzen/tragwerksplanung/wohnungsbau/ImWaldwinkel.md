@@ -1,6 +1,6 @@
 ---
 title: "Anbau eines Wintergartens mit Zwischenebene, Im Waldwinkel, Wolfsburg"
-date: 2021-01-31T21:23:23+01:00
+date: 2021-01-29T21:23:23+01:00
 draft: false
 table:
     - Bauherr: "Michael Tschrosnig, Wolfsburg/Barnstorf"
