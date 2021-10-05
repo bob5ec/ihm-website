@@ -1,6 +1,6 @@
 ---
 title: "Umbau und Sanierung Mehrfamilienhaus, Maschstraße 7, D-30169 Hannover"
-date: 2015-01-31T21:23:23+01:00
+date: 2015-01-26T21:23:23+01:00
 draft: false
 table:
     - Bauherr: "BROY Projekte GmbH, Burgdorf"
