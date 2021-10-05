@@ -1,6 +1,6 @@
 ---
 title: "Wiederaufbau der Leuchtreklame auf dem Dach des Continental AG Werks Hannover-Stöcken"
-date: 2012-01-28T21:23:23+01:00
+date: 2012-01-27T21:23:23+01:00
 draft: false
 table:
     - Bauherr: "Continental Gummiwerke AG, Hannover"
