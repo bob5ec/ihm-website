@@ -1,6 +1,6 @@
 ---
 title: "Ersatzneubau der Raststätte BOTTTROP/Süd, Typ TR 120"
-date: 2012-01-31T21:23:23+01:00
+date: 2021-01-31T21:23:23+01:00
 draft: false
 table:
     - Bauherr: "Autobahn Tank & Rast GmbH, Bonn"

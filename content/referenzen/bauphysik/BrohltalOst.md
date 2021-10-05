@@ -1,6 +1,6 @@
 ---
 title: "Neubau BAB Rastsätte Brohltal Ost, Typ TR 120"
-date: 2012-01-30T21:23:23+01:00
+date: 2021-01-30T21:23:23+01:00
 draft: false
 table:
     - Bauherr: "Autobahn Tank & Rast GmbH, Bonn"
